@@ -3,8 +3,8 @@
 
 class first {
 
-	public static void main(string[] args) {
+	public static void main (String[] args) {
 
-		system.out.println("Welcome to my First Java Programme in DevOps Training");
+		System.out.println("Welcome to my First Java Programme in DevOps Training");
 	}
 }
